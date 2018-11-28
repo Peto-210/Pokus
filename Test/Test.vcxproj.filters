@@ -18,36 +18,12 @@
     <ClInclude Include="pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="qllib\QInit.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="qllib\QInitZealot.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="qllib\QL.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="qllib\Stav.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Pokus.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="qllib\QInit.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="qllib\QInitZealot.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="qllib\QL.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="qllib\Stav.cpp">
+    <ClCompile Include="Test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
